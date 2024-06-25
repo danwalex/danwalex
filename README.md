@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Contributing to projects at KittenConnect<br><br>👯 Eager to collaborate on innovative DevOps projects.<br><br>🤝 Seeking insights on OpenStack and advanced cloud management techniques.<br><br>🌱 Currently learning Go and enhancing my Kubernetes expertise.<br><br>⚡ Fun fact: Driven by the dynamic and ever-evolving tech landscape!
+<br>👯 Eager to collaborate on innovative DevOps projects.<br><br>🤝 Seeking insights on OpenStack and advanced cloud management techniques.<br><br>🌱 Currently learning Go and enhancing my Kubernetes expertise.<br><br>⚡ Fun fact: Driven by the dynamic and ever-evolving tech landscape!
 
 
 ## 🌐 Socials:
