@@ -2,8 +2,7 @@
 <br>👯 Eager to collaborate on innovative DevOps projects.<br><br>🤝 Seeking insights on OpenStack and advanced cloud management techniques.<br><br>🌱 Currently learning Go and enhancing my Kubernetes expertise.<br><br>⚡ Fun fact: Driven by the dynamic and ever-evolving tech landscape!
 
 
-## 🌐 Socials:
-[<img src="https://cdn-icons-png.flaticon.com/256/1006/1006771.png" height="32" width="32" />https://profile.danwalex.com](https://profile.danwalex.com)  
+## 🌐 Socials: profile.danwalex.com
 
 
 # 💻 Tech Stack:
