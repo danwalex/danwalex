@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
- [![X]( https://cdn-icons-png.flaticon.com/256/1006/1006771.png)](https://profile.danwalex.com) 
+[![X](https://cdn-icons-png.flaticon.com/256/1006/1006771.png)](https://profile.danwalex.com){:height="32px" width="32px"}
 
 
 # 💻 Tech Stack:
